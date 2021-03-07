@@ -46,7 +46,6 @@ li {
 	width: 75%;
 }
 
-
 hr {
 	border: solid 1px #1E3664;
 	width: 99%;
@@ -90,3 +89,30 @@ img {
   display: table;
   clear: both;
 }
+
+
+@media only screen and (max-width: 600px) { 
+	.fig {
+    	 margin-top: 10px;
+    	 margin-bottom: 15px;
+    	 margin-left: 5%;
+    	 margin-right: 18%;
+    	 width:75%;
+	}
+    .col-xs-8 {
+         width:100%;
+    }
+    .col-xs-9 {
+         width:100%;
+    }    
+    .column {
+         width:100%;
+    }    
+    .psmall {
+    	font-size: 16.5px;
+    }
+    .left-20px {
+
+    }
+}
+
