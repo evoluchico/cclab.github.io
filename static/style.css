@@ -94,6 +94,16 @@ img {
 	margin-bottom: 20px;
 }
 
+.paper-h {
+  padding-left: 135px;  
+  margin-bottom: 6px;
+}
+
+.paper-p {
+  padding-left: 135px;
+  margin-bottom: 3px;
+}
+
 @media only screen and (max-width: 600px) { 
 	.fig {
     	 margin-top: 10px;
@@ -102,6 +112,14 @@ img {
     	 margin-right: 18%;
     	 width:75%;
 	}
+
+  .paperfig {
+       margin-top: 10px;
+       margin-bottom: 15px;
+       margin-left: 5%;
+       margin-right: 5%;
+  }
+
     .col-xs-8 {
          width:100%;
     }
