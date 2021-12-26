@@ -20,6 +20,11 @@ body {
 	color: #1E3664;
 }
 
+h1
+{
+  margin-top: 5px;
+}
+
 a {
 	color: #568E8D;
 	color: #5F99CA;
