@@ -104,6 +104,18 @@ img {
   margin-bottom: 3px;
 }
 
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 90%;
+}
+
 @media only screen and (max-width: 600px) { 
 	.fig {
     	 margin-top: 10px;
@@ -120,20 +132,19 @@ img {
        margin-right: 5%;
   }
 
-    .col-xs-8 {
-         width:100%;
-    }
-    .col-xs-9 {
-         width:100%;
-    }    
-    .column {
-         width:100%;
-    }    
-    .psmall {
-    	font-size: 15.5px;
-    }
-    .profilepic {
-        height:100px;
-    }
+  .col-xs-8 {
+       width:100%;
+  }
+  .col-xs-9 {
+       width:100%;
+  }    
+  .column {
+       width:100%;
+  }    
+  .psmall {
+  	font-size: 15.5px;
+  }
+  .profilepic {
+      height:100px;
+  }
 }
-
