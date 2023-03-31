@@ -49,6 +49,7 @@ def make_entry(user):
 
 import pandas as pd
 
+
 current_members = pd.read_excel('members_list.xlsx', sheet_name='current_members').fillna('-')
 alumni = pd.read_excel('members_list.xlsx', sheet_name='alumni').fillna('-')
 
@@ -78,3 +79,4 @@ out_str = out_str.replace('ALUMNI_GO_HERE', alumni_str)
 outfile = 'index.html'
 with open(outfile, 'w') as f:
 	f.write(out_str)
+
