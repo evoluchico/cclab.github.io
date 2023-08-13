@@ -76,7 +76,7 @@ alumni_str = '\n'.join(rows)
 out_str = out_str.replace('CURRENT_MEMBERS_GO_HERE', current_members_str)
 out_str = out_str.replace('ALUMNI_GO_HERE', alumni_str)
 
-outfile = 'index.html'
+outfile = '../members.html'
 with open(outfile, 'w') as f:
 	f.write(out_str)
 
