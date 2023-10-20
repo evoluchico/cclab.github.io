@@ -16,9 +16,9 @@ def make_entry(user):
 	imagefile = user['image']
 	degree    = user['course']
 
-	url_type_to_icon = {'linkedin':'fab fa-linkedin fa-1x', 'twitter':'fab fa-twitter fa-1x', 'website':'fas fa-globe'}
+	url_type_to_icon = {'linkedin':'fab fa-linkedin fa-1x', 'twitter':'fab fa-twitter fa-1x', 'academia':'fas fa-university', 'website':'fas fa-globe'}
 
-	links = [ (x, user[x]) for x in ['linkedin','twitter','website'] ]
+	links = [ (x, user[x]) for x in ['linkedin','twitter','website', 'academia' ] ]
 	links_string = ''
 	for link in links:
 		url_type, url = link
