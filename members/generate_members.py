@@ -49,8 +49,8 @@ def make_entry(user):
 
 import pandas as pd
 
-
-current_members = pd.read_excel('members_list.xlsx', sheet_name='current_members').fillna('-')
+infile = 'members_list.xlsx'
+current_members = pd.read_excel(infile, sheet_name='current_members').fillna('-')
 alumni = pd.read_excel('members_list.xlsx', sheet_name='alumni').fillna('-')
 
 infile = 'members_template.html'
