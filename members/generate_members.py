@@ -80,3 +80,4 @@ outfile = '../members.html'
 with open(outfile, 'w') as f:
 	f.write(out_str)
 
+print("Updated 'members.html'")
