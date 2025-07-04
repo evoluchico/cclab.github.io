@@ -66,7 +66,7 @@ img {
 }
 
 .margin-down {
-     margin-bottom: 17px;
+     margin-bottom: 1.0em;
   }
 
 .margin-30px {
@@ -96,17 +96,84 @@ img {
   clear: both;
 }
 
+/* Make .row a flex container for member cards, but only on medium+ screens */
+@media (min-width: 768px) {
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+  }
+  .col-md-6 {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+/* On small screens, use normal block layout for stacking */
+@media (max-width: 767px) {
+  .row {
+    display: block;
+  }
+  .col-md-6 {
+    display: block;
+    width: 100%;
+  }
+}
+
+/* --- MEDIA OBJECT LAYOUT FOR DESKTOP --- */
+.member-card {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  height: 100%;
+  margin-bottom: 2em;
+  background: none;
+  box-shadow: none;
+  border: none;
+  padding: 0;
+}
+
 .profilepic {
-	margin-bottom: 20px;
+  margin-bottom: 0;
+  margin-right: 15px;
+  height: 130px;
+  width: auto;
+  max-width: 130px;
+  object-fit: contain;
+  float: none;
+  display: block;
+  flex-shrink: 0;
+}
+
+.member-card-content {
+  flex: 1 1 0%;
+  min-width: 0;
+}
+
+@media (max-width: 767px) {
+  .member-card {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    height: auto;
+  }
+  .profilepic {
+    margin: 0 0 10px 0;
+    max-width: 100%;
+    height: auto;
+  }
+  .member-card-content {
+    width: 100%;
+  }
 }
 
 .paper-h {
-  padding-left: 135px;  
+  padding-left: 10px;  
   margin-bottom: 6px;
 }
 
 .paper-p {
-  padding-left: 135px;
+  padding-left: 10px;
   margin-bottom: 3px;
 }
 
@@ -152,5 +219,89 @@ img {
   }
   .profilepic {
       height:100px;
+  }
+}
+
+/* Add more space between publication blocks */
+#publications-list > .publication-block {
+  margin-bottom: 2.5em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+/* Remove border for last publication */
+#publications-list > .publication-block:last-child {
+  border-bottom: none;
+}
+
+/* Publication media card layout - applies to all publication lists */
+.publications-list, #publications-list {
+  /* No extra margin or padding needed, but this ensures all sections are styled the same */
+}
+
+.publications-list .publication-card,
+#publications-list .publication-card {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  margin-bottom: 1.2em;
+  padding-bottom: 0;
+  border-bottom: none;
+  background: none;
+  box-shadow: none;
+  border-radius: 0;
+}
+
+.publications-list .publication-img,
+#publications-list .publication-img {
+  flex: 0 0 auto;
+  margin-right: 5px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.publications-list .publication-img img,
+#publications-list .publication-img img {
+  max-width: 100px;
+  height: auto;
+  border: none;
+  border-radius: 0;
+}
+
+.publications-list .publication-info,
+#publications-list .publication-info {
+  flex: 1 1 0%;
+  min-width: 0;
+  padding-left: 0.0em;
+}
+
+.publication-info h4 {
+  margin-top: 0.1em;
+  margin-bottom: 0.5em;
+}
+
+@media (max-width: 767px) {
+  .publications-list .publication-card,
+  #publications-list .publication-card {
+    flex-direction: column;
+    align-items: stretch;
+    border-bottom: none;
+  }
+  .publications-list .publication-img,
+  #publications-list .publication-img {
+    margin-right: 0;
+    margin-bottom: 10px;
+    justify-content: center;
+  }
+  .publications-list .publication-img img,
+  #publications-list .publication-img img {
+    margin: 0 auto;
+    display: block;
+  }
+}
+
+@media (max-width: 600px) {
+  .publication-card {
+    margin-bottom: 2rem; /* Increased space for mobile readability */
   }
 }

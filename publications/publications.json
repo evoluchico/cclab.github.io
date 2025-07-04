@@ -1,0 +1,458 @@
+[
+  {
+    "title": "#UbirajaraBelongstoBR: social media activism against (neo)colonial practices in palaeontology",
+    "authors": ["M.A. Rahimi Fard Kashani", "Nussaïbah B. Raja", "Chico Q. Camargo"],
+    "type": "peer-reviewed",
+    "img": "../images/publications/2025-ubirajara.jpeg",
+    "alt": "Drawing of the Ubirajara dinosaur",
+    "links": [],
+    "journal": "Accepted at Geoscience Communication",
+    "year": 2025
+  },
+  {
+    "title": "Boosting Transformers: Recognizing Textual Entailment for Classification of Vaccine News Coverage",
+    "authors": ["Luiz Neves", "Luisa Massarani", "Chico Q. Camargo"],
+    "journal": "Computational Communication Research",
+    "year": 2025,
+    "type": "peer-reviewed",
+    "img": "../images/publications/2024-Vaccines-Entailment.png",
+    "alt": "Vaccine bottle and needle over a paper with text",
+    "links": [
+      {"label": "Journal Article", "url": "https://journal.computationalcommunication.org/article/view/8965"},
+      {"label": "PDF", "url": "../papers/ComputationalCommsResearch_2025.pdf"}
+    ]
+  },
+  {
+    "title": "The Evolution of Evolutionary Linguistics",
+    "authors": ["Poonam Brar", "Chico Q. Camargo"],
+    "journal": "Journal of Language Evolution",
+    "year": 2024,
+    "type": "peer-reviewed",
+    "img": "../images/publications/2024-CHIELD.png",
+    "alt": "Pixelated image of a tree",
+    "links": [
+      {"label": "Journal Article", "url": "https://academic.oup.com/jole/advance-article/doi/10.1093/jole/lzae003/7703233"},
+      {"label": "PDF", "url": "../papers/JLanguageEvolution_2024.pdf"}
+    ]
+  },
+  {
+    "title": "Analyzing Misinformation Claims During the 2022 Brazilian General Election on WhatsApp, Twitter, and Kwai",
+    "authors": ["Scott A. Hale", "Adriano Belisario", "Ahmed Mostafa", "Chico Q. Camargo"],
+    "journal": "International Journal of Public Opinion Research",
+    "year": 2024,
+    "type": "peer-reviewed",
+    "img": "../images/publications/2023-whatsapp-twitter-kwai.png",
+    "alt": "Whatsapp, Twitter and Kwai logos",
+    "links": [
+      {"label": "Journal Article", "url": "https://academic.oup.com/ijpor/article/36/3/edae032/7709027"},
+      {"label": "PDF", "url": "../papers/IJPOR_2024.pdf"}
+    ]
+  },
+  {
+    "title": "Non-Poissonian Bursts in the Arrival of Phenotypic Variation Can Strongly Affect the Dynamics of Adaptation",
+    "authors": ["Nora S. Martin", "Steffen Schaper", "Chico Q. Camargo", "Ard A. Louis"],
+    "journal": "Molecular Biology and Evolution",
+    "year": 2024,
+    "type": "peer-reviewed",
+    "img": "../images/publications/2024-Bursts.png",
+    "alt": "Two RNA structures",
+    "links": [
+      {"label": "Journal Article", "url": "https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msae085/7661020"},
+      {"label": "PDF", "url": "../papers/MolecularBiologyEvolution_2024.pdf"}
+    ]
+  },
+  {
+    "title": "Unraveling the Structure of Knowledge: Consistency in Everyday Networks, Diversity in Scientific",
+    "authors": ["Owen G. W. Saunders", "Chico Q. Camargo", "Massimo Stella"],
+    "journal": "International Conference on Complex Networks",
+    "year": 2024,
+    "type": "peer-reviewed",
+    "img": "../images/publications/2024-Knowledge.png",
+    "alt": "Network representing the structure of knowledge",
+    "links": [
+      {"label": "Journal Article", "url": "https://link.springer.com/chapter/10.1007/978-3-031-57515-0_10"},
+      {"label": "PDF", "url": "../papers/ComplexNetworks_2024.pdf"}
+    ]
+  },
+  {
+    "title": "Bias in the Arrival of Variation Can Dominate Over Natural Selection in Richard Dawkins's Biomorphs",
+    "authors": ["Nora S. Martin", "Chico Q. Camargo", "Ard A. Louis"],
+    "journal": "PLOS Computational Biology",
+    "year": 2024,
+    "type": "peer-reviewed",
+    "img": "../images/publications/2023-biomorphs.png",
+    "alt": "Pixelated image of a tree",
+    "links": [
+      {"label": "Journal Article", "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011893"},
+      {"label": "PDF", "url": "../papers/PLOSCompBiol_2024.pdf"}
+    ]
+  },
+  {
+    "title": "Impact of Network Centrality and Income on Slowing Infection Spread after Outbreaks",
+    "authors": ["Shiv G. Yücel", "Rafael H. M. Pereira", "Pedro S. Peixoto", "Chico Q. Camargo"],
+    "journal": "Applied Network Science",
+    "year": 2023,
+    "type": "peer-reviewed",
+    "img": "../images/publications/2022-COVID-SP.png",
+    "alt": "Map of the metropolitan region of São Paulo",
+    "links": [
+      {"label": "Journal Article", "url": "https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00540-z"},
+      {"label": "PDF", "url": "../papers/AppliedNetworkScience_2023.pdf"}
+    ]
+  },
+  {
+    "title": "Heritage site-seeing through the visitor's lens on Instagram",
+    "authors": ["Tania Loke", "Yayoi Teramoto", "Chico Q. Camargo", "Kathryn Eccles"],
+    "journal": "Journal of Cultural Analytics",
+    "year": 2022,
+    "type": "peer-reviewed",
+    "img": "../images/publications/2022-InstagramHeritage.png",
+    "alt": "A photo of a wooden sculpture, with a green square saying 'sculpture'",
+    "links": [
+      {"label": "Journal Article", "url": "https://culturalanalytics.org/article/38966-heritage-site-seeing-through-the-visitor-s-lens-on-instagram"},
+      {"label": "PDF", "url": "../papers/Cultural_Analytics_2022.pdf"}
+    ]
+  },
+  {
+    "title": "Mis- and disinformation studies are too big to fail: Six suggestions for the field’s future",
+    "authors": ["Chico Q. Camargo", "Felix Simon"],
+    "journal": "Harvard Kennedy School (HKS) Misinformation Review",
+    "year": 2022,
+    "type": "peer-reviewed",
+    "img": "../images/publications/2022-HKS.jpg",
+    "alt": "A bar plot, two heatmaps, and the number 0.56",
+    "links": [
+      {"label": "Journal Article", "url": "https://misinforeview.hks.harvard.edu/article/mis-and-disinformation-studies-are-too-big-to-fail-six-suggestions-for-the-fields-future/"},
+      {"label": "PDF", "url": "../papers/HKS_Misinfo_Review_2022.pdf"}
+    ]
+  },
+  {
+    "title": "SemEval-2022 Task 8: Multilingual news article similarity",
+    "authors": ["Xi Chen", "Ali Zeynali", "Chico Q. Camargo", "Fabian Flöck", "Devin Gaffney", "Przemyslaw A. Grabowicz", "Scott A. Hale", "David Jurgens", "Mattia Samory"],
+    "journal": "Proceedings of the 16th International Workshop on Semantic Evaluation. Association for Computational Linguistics",
+    "year": 2022,
+    "type": "peer-reviewed",
+    "img": "../images/publications/2022-SemEval.png",
+    "alt": "A bar plot, two heatmaps, and the number 0.56",
+    "links": [
+      {"label": "Conference Paper", "url": "https://aclanthology.org/2022.semeval-1.155/"},
+      {"label": "PDF", "url": "../papers/SemEval_2022.pdf"}
+    ]
+  },
+  {
+    "title": "Symmetry and simplicity spontaneously emerge from the algorithmic nature of evolution",
+    "authors": ["Iain G. Johnston", "Kamaludin Dingle", "Sam F. Greenbury", "Chico Q. Camargo", "Jonathan P. K. Doye", "Sebastian E. Ahnert", "Ard A. Louis"],
+    "journal": "Proceedings of the National Academy of Sciences",
+    "year": 2022,
+    "type": "peer-reviewed",
+    "img": "../images/publications/2022-Symmetry-Modularity.png",
+    "alt": "Symmetric protein structure",
+    "links": [
+      {"label": "Journal Article", "url": "https://www.pnas.org/doi/10.1073/pnas.2113883119"},
+      {"label": "PDF", "url": "../papers/PNAS_2022.pdf"}
+    ],
+    "coverage": [
+      {"label": "NY Times", "url": "https://www.nytimes.com/2022/03/24/science/symmetry-biology-evolution.html"},
+      {"label": "Le Monde", "url": "https://www.lemonde.fr/sciences/article/2022/01/18/dans-l-evolution-le-role-du-hasard-reevalue-grace-a-une-mauvaise-herbe_6109999_1650684.html"},
+      {"label": "Phys.org", "url": "https://phys.org/news/2022-03-endless-beautiful-evolution-favours-symmetry.html"},
+      {"label": "Oxford Physics", "url": "https://www.physics.ox.ac.uk/news/commentary-professor-ard-louis-symmetry-evolution"},
+      {"label": "University of Oxford", "url": "https://www.ox.ac.uk/news/2022-03-31-nature-prefers-symmetry-and-simplicity"},
+      {"label": "SyFy", "url": "https://www.syfy.com/syfy-wire/evolution-prefers-simple-patterns-that-repeat-themselves"},
+      {"label": "University of Bergen", "url": "https://www.uib.no/en/news/152523/why-evolution-favours-symmetry"},
+      {"label": "Nederlands Dagblad", "url": "https://www.nd.nl/cultuur/wetenschap/1115150/simpele-dna-recepten-hebben-de-voorkeur"},
+      {"label": "Salon.com", "url": "https://www.salon.com/2022/03/20/the-weird-reason-symmetry-abounds-in-nature-may-have-to-do-with-our-genes-striving-for-efficiency/"},
+      {"label": "SciTechDaily", "url": "https://scitechdaily.com/endless-forms-most-beautiful-why-evolution-favors-symmetry/"},
+      {"label": "Tilt UOL", "url": "https://www.uol.com.br/tilt/colunas/para-onde-o-mundo-vai/2022/05/03/por-que-a-evolucao-resulta-em-formas-simetricas.amp.htm"},
+      {"label": "Nature Reviews Physics", "url": "https://www.nature.com/articles/s42254-023-00554-7"}
+    ]
+  },
+  {
+    "title": "Measuring the Volatility of the Political agenda in Public Opinion and News Media",
+    "authors": ["Chico Q. Camargo", "Peter John", "Helen Z. Margetts", "Scott A. Hale"],
+    "journal": "Public Opinion Quarterly",
+    "year": 2021,
+    "type": "peer-reviewed",
+    "img": "../images/publications/2021-Volatility.png",
+    "alt": "Line showing quarter-to-quarter Novelty over time",
+    "links": [
+      {"label": "Journal Article", "url": "https://academic.oup.com/poq/article/85/2/493/6372235"},
+      {"label": "PDF", "url": "../papers/Public_Opinion_Quarterly_2021.pdf"}
+    ]
+  },
+  {
+    "title": "Autopsy of a metaphor: The origins, use and blind spots of the 'infodemic'",
+    "authors": ["Felix M. Simon", "Chico Q. Camargo"],
+    "journal": "New Media & Society",
+    "year": 2021,
+    "type": "peer-reviewed",
+    "img": "../images/publications/2021-infodemic.png",
+    "alt": "Man running away from a wave made of words such as Coronavirus and Stay Home",
+    "links": [
+      {"label": "Journal Article", "url": "https://journals.sagepub.com/doi/full/10.1177/14614448211031908"},
+      {"label": "PDF", "url": "../papers/New_Media_and_Society_2021.pdf"}
+    ]
+  },
+  {
+    "title": "Estimating Traffic Disruption Patterns with Volunteered Geographic Information",
+    "authors": ["Chico Q. Camargo", "Jonathan Bright", "Graham McNeill", "Sridhar Raman", "Scott A. Hale"],
+    "journal": "Nature Scientific Reports",
+    "year": 2020,
+    "type": "peer-reviewed",
+    "img": "../images/publications/2020-Estimating.png",
+    "alt": "Man running away from a wave made of words such as Coronavirus and Stay Home",
+    "links": [
+      {"label": "Journal Article", "url": "https://www.nature.com/articles/s41598-020-57882-2"},
+      {"label": "PDF", "url": "../papers/Nature_Scientific_Reports_2020.pdf"}
+    ]
+  },
+  {
+    "title": "Boolean Threshold Networks as Models of Genotype-Phenotype Maps",
+    "authors": ["Chico Q. Camargo", "Ard A. Louis"],
+    "journal": "Complex Networks XI",
+    "year": 2020,
+    "type": "peer-reviewed",
+    "img": "../images/publications/2020-GRN-IO.png",
+    "alt": "Network with three circles connected to each other",
+    "links": [
+      {"label": "Conference Paper", "url": "https://link.springer.com/chapter/10.1007/978-3-030-40943-2_13"},
+      {"label": "PDF", "url": "../papers/Complenet_2020.pdf"}
+    ]
+  },
+  {
+    "title": "New methods for the steady-state analysis of complex agent-based models",
+    "authors": ["Chico Q. Camargo"],
+    "journal": "Frontiers in Physics",
+    "year": 2020,
+    "type": "peer-reviewed",
+    "img": "../images/publications/2020-OpDyn.png",
+    "alt": "Network connecting six circles at the bottom to two squares at the top",
+    "links": [
+      {"label": "Journal Article", "url": "https://www.frontiersin.org/articles/10.3389/fphy.2020.00103/full"},
+      {"label": "PDF", "url": "../papers/Frontiers_in_Physics_2020.pdf"}
+    ]
+  },
+  {
+    "title": "Diagnosing the performance of human mobility models at small spatial scales using volunteered geographic information",
+    "authors": ["Chico Q. Camargo", "Jonathan Bright", "Scott A. Hale"],
+    "journal": "Royal Society Open Science",
+    "year": 2019,
+    "type": "peer-reviewed",
+    "img": "../images/publications/2019-Transnet.png",
+    "alt": "Map of England with an arrow drawn on it",
+    "links": [
+      {"label": "Journal Article", "url": "https://royalsocietypublishing.org/doi/full/10.1098/rsos.191034"},
+      {"label": "PDF", "url": "../papers/RSOS_2019.pdf"}
+    ]
+  },
+  {
+    "title": "Deep learning generalizes because the parameter-function map is biased towards simple functions",
+    "authors": ["Guillermo Valle-Pérez", "Chico Q. Camargo", "Ard A. Louis"],
+    "journal": "Proceedings of the International Conference on Learning Representations (ICLR)",
+    "year": 2019,
+    "type": "peer-reviewed",
+    "img": "../images/publications/2019-ICLR.png",
+    "alt": "Logo for the ICLR conference",
+    "links": [
+      {"label": "Conference Paper", "url": "https://openreview.net/forum?id=rye4g3AqFm"},
+      {"label": "PDF", "url": "../papers/ICLR_2019.pdf"}
+    ]
+  },
+  {
+    "title": "Tight PAC-Bayesian generalization error bounds for deep learning",
+    "authors": ["Guillermo Valle-Pérez", "Chico Q. Camargo", "Ard A. Louis"],
+    "journal": "ICML workshop on Understanding Generalization in Deep Learning",
+    "year": 2019,
+    "type": "peer-reviewed",
+    "img": "../images/publications/2019-PACBayes.png",
+    "alt": "Logo for the ICML conference",
+    "links": [
+      {"label": "Conference Paper", "url": "https://sites.google.com/view/icml2019-generalization/accepted-papers"},
+      {"label": "PDF", "url": "../papers/ICML_2019.pdf"}
+    ]
+  },
+  {
+    "title": "Input-output maps are strongly biased towards simple outputs",
+    "authors": ["Kamaludin Dingle", "Chico Q. Camargo", "Ard A. Louis"],
+    "journal": "Nature Communications",
+    "year": 2018,
+    "type": "peer-reviewed",
+    "img": "../images/publications/2018-SBias.png",
+    "alt": "Scatterplot comparing the probability and the complexity of many patterns",
+    "links": [
+      {"label": "Journal Article", "url": "https://www.nature.com/articles/s41467-018-03101-6"},
+      {"label": "PDF", "url": "../papers/Nature_Communications_2018.pdf"}
+    ]
+  },
+  {
+    "title": "Science, Public Service and the New Normal: Two Years of Coverage on the COVID-19 Vaccine in Newspapers from the U.S., U.K., Brazil, and China",
+    "authors": ["Luiz Neves", "Luisa Massarani", "Chico Q. Camargo"],
+    "type": "under-review",
+    "img": "../images/publications/2023-covid-coverage.png",
+    "alt": "Pixelated image of a tree",
+    "links": [],
+    "journal": null,
+    "year": null
+  },
+  {
+    "title": "Evaluating the Performance of Large Language Models for Framing Function Identification",
+    "authors": ["Emily Robinson", "Ranadheer Malla", "Chico Q. Camargo"],
+    "type": "under-review",
+    "img": "../images/publications/2024-Framing-Functions.png",
+    "alt": "Magnifying glass looking at text",
+    "links": [],
+    "journal": null,
+    "year": null
+  },
+  {
+    "title": "Distant viewing television: machine learning genres",
+    "authors": ["Carlos Gontijo Rosa Júnior","Isabel Sebire", "Chico Q. Camargo"],
+    "type": "under-review",
+    "img": "../images/publications/2024-tvtropes.png",
+    "alt": "TVTropes logo",
+    "links": [],
+    "journal": null,
+    "year": null
+  },
+  {
+    "title": "The Effect of #MeToo on Rape Myths in the Media: a Global Multi-Lingual Analysis",
+    "authors": ["Hubert Au", "Joana Perrone", "Chico Q. Camargo"],
+    "type": "under-review",
+    "img": "../images/publications/2024-metoo-myths.png",
+    "alt": "Lots of hands up in the air",
+    "links": [
+        {"label": "Preprint", "url": "https://osf.io/z6uvc_v1/"}
+    ],
+    "journal": null,
+    "year": null
+  },
+  {
+    "title": "Are We Really Living in an 'Infodemic'? Science Suggests a Different Story",
+    "authors": ["Chico Q. Camargo", "Felix M. Simon"],
+    "type": "public-writing",
+    "img": "../images/publications/OII.jpg",
+    "alt": "Oxford Internet Institute logo",
+    "links": [
+      {"label": "Full Text", "url": "https://www.oii.ox.ac.uk/blog/are-we-really-living-in-an-infodemic-science-suggests-a-different-story/"},
+      {"label": "Portuguese version at MediaTalks", "url": "https://mediatalks.uol.com.br/2021/09/24/infodemia-pode-nao-ser-a-melhor-palavra-para-descrever-a-crise-de-informacao-em-torno-da-covid-19/"}
+    ],
+    "journal": "The Oxford Internet Institute Blog",
+    "year": 2021
+  },
+  {
+    "title": "YouTube's algorithms might radicalise people – but the real problem is we’ve no idea how they work",
+    "authors": ["Chico Q. Camargo"],
+    "type": "public-writing",
+    "img": "../images/publications/the-conversation.jpg",
+    "alt": "The Conversation logo",
+    "links": [
+      {"label": "Full Text", "url": "https://theconversation.com/youtubes-algorithms-might-radicalise-people-but-the-real-problem-is-weve-no-idea-how-they-work-129955"}
+    ],
+    "journal": "The Conversation",
+    "year": 2020
+  },
+  {
+    "title": "Complexity Explained: A Grassroot Collaborative Initiative to Create a Set of Essential Concepts of Complex Systems",
+    "authors": ["Manlio De Domenico", "Dirk Brockmann", "Chico Q. Camargo", "Carlos Gershenson", "Daniel Goldsmith", "Sabine Jeschonnek", "Lorren Kay", "Stefano Nichele", "José Nicolás", "Thomas Schmickl", "Massimo Stella", "Josh Brandoff", "Ángel José Martı́nez Salinas", "Hiroki Sayama"],
+    "type": "public-writing",
+    "img": "../images/publications/2019-ComplexityExplained.png",
+    "alt": "Booklet cover for Complexity Explained",
+    "links": [
+      {"label": "Website", "url": "https://complexityexplained.github.io/"},
+      {"label": "PDF", "url": "https://complexityexplained.github.io/ComplexityExplained.pdf"}
+    ],
+    "journal": null,
+    "year": 2019
+  },
+  {
+    "title": "Physics makes rules, evolution rolls the dice",
+    "authors": ["Chico Q. Camargo"],
+    "type": "public-writing",
+    "img": "../images/publications/2018-book-review.jpeg",
+    "alt": "A snail with a starry sky behind it",
+    "links": [
+      {"label": "Book Review", "url": "https://www.science.org/doi/full/10.1126/science.aat7776?casa_token=b68smN2TInUAAAAA%3AiYXe4SwqHo6lqD2ZybW2149Q8kB_CVFYzCYy7Ru0mMJsH5lbxLkkNH3MrNVWwXAtkUJEi01hzOc9/"},
+      {"label": "PDF", "url": "../papers/Science_book_review_2018.pdf"}
+    ],
+    "journal": "Science",
+    "year": 2018
+  },
+  {
+    "title": "Nerdologia Fake News | Série",
+    "authors": ["Chico Q. Camargo", "Mila Laranjeira", "Altay de Souza", "Ana Arantes"],
+    "type": "video-series",
+    "img": "../images/publications/2022-Nerdologia-FakeNews.png",
+    "alt": "YouTube thumbnail saying Fake News",
+    "links": [
+      {"label": "YouTube series", "url": "https://www.youtube.com/watch?v=XVyqrOPEu84&list=PLyRcl7Q37-DWw10DNuAR1GaCfkPpO1ndY&index=2"}
+    ],
+    "journal": "Nerdologia",
+    "year": 2022
+  },
+  {
+    "title": "Divided by discipline? A systematic literature review on the quantification of online sexism and misogyny using a semi-automated approach",
+    "authors": ["Aditi Dutta", "Susan Banducci", "Chico Q. Camargo"],
+    "type": "under-review",
+    "img": "../images/publications/2025-sexism-systematic.png",
+    "alt": "Male and female symbols",
+    "links": [
+      {"label": "Preprint", "url": "https://arxiv.org/pdf/2409.20204"}
+    ],
+    "journal": null,
+    "year": null
+  },
+  {
+    "title": "How public opinion shapes individual policy preferences: do the conformists constrain the contrarians?",
+    "authors": ["Myrto Pantazi", "Chico Q. Camargo", "Helen Margetts", "Peter John", "Scott Hale"],
+    "type": "under-review",
+    "img": "../images/publications/2025-INDVOL.png",
+    "alt": "A drawing of two people disagreeing with each other",
+    "links": [
+      {"label": "Preprint", "url": "https://osf.io/aq5d2"}
+    ],
+    "journal": null,
+    "year": null
+  },
+  {
+    "title": "Viu Política: Mapping political content on YouTube in the 2022 Brazilian elections",
+    "authors": ["Ana Julia Bernardi", "Beatrice Bonami", "Chico Camargo", "Isabela Inês Bernardino", "Rodger Richer", "Camila Tsuzuki"],
+    "type": "public-writing",
+    "img": "../images/publications/2022-viu-politica.png",
+    "alt": "Oxford Internet Institute logo",
+    "links": [
+      {"label": "Website", "url": "https://cclab.science/URL1"},
+      {"label": "Full report (English)", "url": "https://uploads-ssl.webflow.com/60244423a672eb5c9027e063/6487639f7c12fc820321cd07_RelatorioENG-viu-politica-reduzido.pdf"},
+      {"label": "Full report (Portuguese)", "url": "https://uploads-ssl.webflow.com/60244423a672eb5c9027e063/64874dac4d6981585a9bc756_viu-politica-report-ptbr.pdf"},
+      {"label": "Dataset", "url": "https://huggingface.co/datasets/mozilla-foundation/youtube_regrets"}
+    ],
+    "journal": "University of Exeter, Vero Instituto, Mozilla Foundation",
+    "year": 2022
+  },
+  {
+    "title": "Does this button work? Investigating YouTube’s ineffective user controls",
+    "authors": ["Becca Ricks", "Jesse McCrosky", "et al."],
+    "type": "public-writing",
+    "img": "../images/publications/2022-mozilla-does-this-button-work.png",
+    "alt": "a Dislike button",
+    "links": [
+      {"label": "Website", "url": "https://foundation.mozilla.org/en/youtube/user-controls/"},
+      {"label": "Full report", "url": "https://assets.mofoprod.net/network/documents/Mozilla-Report-YouTube-User-Controls.pdf"},
+      {"label": "Dataset", "url": "https://huggingface.co/datasets/mozilla-foundation/youtube_regrets"}
+    ],
+    "journal": "Mozilla Foundation",
+    "year": 2022
+  },
+  {
+    "title": "YouTube Regrets: A crowdsourced investigation into YouTube's recommendation algorithm",
+    "authors": ["Jesse McCrosky", "Brandi Geurkink", "et al."],
+    "type": "public-writing",
+    "img": "../images/publications/2021-youtube-regrets.png",
+    "alt": "A network superimposed on the YouTube logo",
+    "links": [
+      {"label": "Website", "url": "https://foundation.mozilla.org/en/youtube/findings/"},
+      {"label": "Full report", "url": "https://assets.mofoprod.net/network/documents/Mozilla_YouTube_Regrets_Report.pdf"},
+      {"label": "Dataset", "url": "https://huggingface.co/datasets/mozilla-foundation/youtube_regrets"}
+    ],
+    "journal": "Mozilla Foundation",
+    "year": 2021
+  }
+]

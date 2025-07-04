@@ -1,0 +1,446 @@
+[
+  {
+    "group": "Faculty",
+    "name": "Dr Chico Camargo",
+    "role": "Principal Investigator",
+    "image": "/images/members/chico-may2025.jpg",
+    "interests": "The CC Lab!",
+    "links": [{"type": "website", "url": "https://camargo.cool/"}]
+  },
+  {
+    "group": "Current Members",
+    "name": "Aditi Dutta",
+    "role": "PhD in Politics",
+    "image": "/images/members/aditi_dutta.jpeg",
+    "interests": "Machine Learning, Natural Language Processing, Political Science",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/aditi-dutta-22a299135/"}]
+  },
+  {
+    "group": "Current Members",
+    "name": "Emily Robinson",
+    "role": "PhD in AI for Sustainable Futures",
+    "image": "/images/members/emily_robinson.jpeg",
+    "interests": "Machine Learning, Natural Language Processing, Global Environmental Politics",
+    "links": [{"type": "twitter", "url": "https://twitter.com/EmilyMcGrath01"}]
+  },
+  {
+    "group": "Current Members",
+    "name": "Manju Bura",
+    "role": "PhD in AI for Sustainable Futures",
+    "image": "/images/members/manju_bura.jpg",
+    "interests": "ML, NLP, Climate Change and Society, Science and Technology Studies"
+  },
+  {
+    "group": "Current Members",
+    "name": "Owen Saunders",
+    "role": "PhD in Computer Science",
+    "image": "/images/members/owen_saunders.jpg",
+    "interests": "NLP, Science of Science, Cognitive Science and Network Science",
+    "links": [
+      {"type": "linkedin", "url": "https://www.linkedin.com/in/owen-saunders/"},
+      {"type": "website", "url": "https://www.hatless-studios.co.uk/#/"}
+    ]
+  },
+  {
+    "group": "Current Members",
+    "name": "Francisco Gonzalez",
+    "role": "PhD in AI for Sustainable Futures",
+    "image": "/images/members/francisco_gonzalez.jpg",
+    "interests": "Discourse and mental representations, NLP, Computer Vision, Social Issues, Media Studies, Communication",
+    "links": [
+      {"type": "linkedin", "url": "https://www.linkedin.com/in/frangones/"},
+      {"type": "website", "url": "https://www.researchgate.net/profile/Francisco-Gonzalez-57"},
+      {"type": "academia", "url": "https://universidaddelvallecolombia.academia.edu/FranciscoGonzalez"}
+    ]
+  },
+  {
+    "group": "Current Members",
+    "name": "Thales David Domingues Aparecido",
+    "role": "BSc Molecular Sciences (University of São Paulo)",
+    "image": "/images/members/thales_aparecido.png",
+    "interests": "Opinion Dynamics, Computational Social Science, Sociophysics, Computational Semiotics",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/thales-david-9171061a9"}]
+  },
+  {
+    "group": "Current Members",
+    "name": "Max Leach",
+    "role": "Research Intern in Social Data Science",
+    "image": "/images/members/max_leach.jpg",
+    "interests": "ML, DL, Graph Kernels, Graph Neural Networks, NLP, computational chemistry",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/maximilian-leach/"}]
+  },
+{
+    "group": "Alumni",
+    "name": "Carlos Gontijo Rosa",
+    "role": "Visiting Professor",
+    "image": "/images/members/carlos_gontijo_rosa.jpeg",
+    "interests": "Theatre, Literature, Discourse Analysis, Studies of Interdisciplinarity"
+  },
+  {
+    "group": "Alumni",
+    "name": "Ned Westwood",
+    "role": "Postdoctoral Research Fellow in Social Data Science",
+    "image": "/images/members/ned_westwood.jpg",
+    "interests": "Quantitative Narrative Analysis, Multimodal Data, NLP, ML, Political and Environmental Communication"
+  },
+  {
+    "group": "Alumni",
+    "name": "Marina Kawamura",
+    "role": "BSc Molecular Sciences (University of São Paulo)",
+    "image": "/images/members/marina_kawamura.jpg",
+    "interests": "Linguistics, Epistemology, Social sciences, Studies of Interdisciplinarity"
+  },
+  {
+    "group": "Alumni",
+    "name": "Kamila Szelag-Levine",
+    "role": "MSc Data Science with Artificial Intelligence",
+    "image": "/images/members/kamila_szelag-levine.jpg",
+    "interests": "NLP, Network Analysis, Data Ethics, Asian languages",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/kamila-s-497444228/"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Valeria Casado",
+    "role": "MSc in Data Science with AI",
+    "image": "/images/members/valeria_casado.jpg",
+    "interests": "Machine Learning, Data Science, NLP",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/valeriacasado/"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Peilin Du",
+    "role": "MSc in Data Science",
+    "image": "/images/members/peilin_du.png",
+    "interests": "Data Science, ML, NLP, Network Science, Computational Social Science",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/peilin-du-87a0bb238"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Tawhid Shahrior",
+    "role": "MSc in Data Science",
+    "image": "/images/members/tawhid_shahrior.jpg",
+    "interests": "ML, NLP, Computational History, Social Sciences",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/tawhidshahrior/"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Ben Dennes",
+    "role": "MSc in Data Science",
+    "image": "/images/members/ben_dennes.jpg",
+    "interests": "ML, NLP, AI regulation, political communication, sustainability, ethics",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/bendennes/"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Izzy Sebire",
+    "role": "BSc Computer Science and Mathematics",
+    "image": "/images/members/izzy_sebire.jpeg",
+    "interests": "NLP, Machine Learning, AI Ethics",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/isabel-sebire-81b644175/"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Henry Cook",
+    "role": "BSc in Computer Science",
+    "image": "/images/members/henry_cook.png",
+    "interests": "Machine Learning, NLP, Computer Graphics",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/henry-cook-80263a1b1/"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Jamie Falla",
+    "role": "BSc in Computer Science",
+    "image": "/images/members/jamie_falla.jpeg",
+    "interests": "ML, Network Analysis, Nature-Inspired Computation"
+  },
+  {
+    "group": "Alumni",
+    "name": "Matt Hudson",
+    "role": "BSc in Computer Science",
+    "image": "/images/members/matt_hudson.png",
+    "interests": "Machine Learning, AI, Natural Language Processing"
+  },
+  {
+    "group": "Alumni",
+    "name": "Ruth Matthews",
+    "role": "BSc in Computer Science and Mathematics",
+    "image": "/images/members/ruth_matthews.png",
+    "interests": "Neural Networks, Deep Learning",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/ruth-matthews-106b17211/"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Iain Wainwright",
+    "role": "BSc in Computer Science and Mathematics",
+    "image": "/images/members/square.png"
+  },
+  {
+    "group": "Alumni",
+    "name": "Hubert Au",
+    "role": "DPhil in Social Data Science (Oxford)",
+    "image": "/images/members/hubert_au.jpg",
+    "interests": "NLP, Social Movements, Feminist Theory, Misinformation",
+    "links": [{"type": "twitter", "url": "https://twitter.com/HubertDAu"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Luiz Neves",
+    "role": "PhD in Science Communication (Oswaldo Cruz Foundation)",
+    "image": "/images/members/luiz_neves.jpg",
+    "interests": "Media Studies, Science Communication, Science Journalism, NLP, ML",
+    "links": [{"type": "twitter", "url": "https://twitter.com/lffernandes08"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Poonam Brar",
+    "role": "MSc in Applied Data Science and Statistics",
+    "image": "/images/members/poonam_brar.jpg",
+    "interests": "ML, NLP, Network Analysis, Graph Theory",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/poonam-brar-334703a0/"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Ranadheer Malla",
+    "role": "Graduate Research Assistant",
+    "image": "/images/members/ranadheer_malla.jpeg",
+    "interests": "Human-Centered AI, Weak supervised learning, Active learning, Bayesian statistics, Web scraping",
+    "links": [
+      {"type": "linkedin", "url": "https://www.linkedin.com/in/ranadheer-malla/"},
+      {"type": "twitter", "url": "https://twitter.com/Iam_Randheer"}
+    ]
+  },
+  {
+    "group": "Alumni",
+    "name": "Rishi Kumar Krishnaswamy Rajagopal",
+    "role": "MSc in Advanced Computer Science",
+    "image": "/images/members/rishi_kumar.png",
+    "interests": "Machine Learning, NLP, Computer Vision",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/rishi19/"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Chai Jiayi",
+    "role": "MSc Data Science with Artificial Intelligence",
+    "image": "/images/members/chai_jiayi.jpg",
+    "interests": "Machine Learning, NLP, Data Analysis and Processing"
+  },
+  {
+    "group": "Alumni",
+    "name": "Cameron Stackhouse",
+    "role": "BSc Computer Science",
+    "image": "/images/members/cameron_stackhouse.jpeg",
+    "interests": "Nature-Inspired Computation, Machine Learning",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/cameron-stackhouse/"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Harvey Bellini",
+    "role": "MSci Computer Science",
+    "image": "/images/members/harvey_bellini.jpg",
+    "interests": "ML, AI, Reinforcement Learning, Financial Applications"
+  },
+  {
+    "group": "Alumni",
+    "name": "Isaac Cheng",
+    "role": "BSc Computer Science",
+    "image": "/images/members/isaac_cheng.jpg",
+    "interests": "Algorithmic optimisation, distributed systems, financial markets",
+    "links": [
+      {"type": "linkedin", "url": "https://www.linkedin.com/in/isaaccheng9"},
+      {"type": "github", "url": "https://github.com/IsaacCheng9"}
+    ]
+  },
+  {
+    "group": "Alumni",
+    "name": "Alex Merren",
+    "role": "BSc Computer Science and Mathematics",
+    "image": "/images/members/alex_merren.jpg",
+    "interests": "Computational Social Science, Social Networks and Technology",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/alexmerren/"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Japleen Gulati",
+    "role": "Graduate Research Assistant",
+    "image": "/images/members/japleen_gulati.jpg",
+    "interests": "ML, Ensemble Learning, Natural Language Processing",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/japleen-gulati/"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Anis Bouhamadouche",
+    "role": "MSc in Data Science",
+    "image": "/images/members/anis_bouhamadouche.jpg",
+    "interests": "Machine Learning, NLP, Marketing, Strategy",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/anis-bouhamadouche/"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Gerardo Martinez",
+    "role": "MSc Data Science (Degree Apprenticeship)",
+    "image": "/images/members/gerardo_martinez.jpg",
+    "interests": "Machine Learning, Data Science, Deep Learning, Computational Social Science",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/gerardomartinezgarcia/"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Kien Khuong",
+    "role": "MSc in Data Science with AI",
+    "image": "/images/members/kien_khuong.jpg",
+    "interests": "ML, NLP, Social Networks, Network Analysis, Computer Vision"
+  },
+  {
+    "group": "Alumni",
+    "name": "Valeria Casado",
+    "role": "MSc in Data Science with AI",
+    "image": "/images/members/valeria_casado.jpg",
+    "interests": "Machine Learning, Data Science, NLP",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/valeriacasado/"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Peilin Du",
+    "role": "MSc in Data Science",
+    "image": "/images/members/peilin_du.png",
+    "interests": "Data Science, ML, NLP, Network Science, Computational Social Science",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/peilin-du-87a0bb238"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Tawhid Shahrior",
+    "role": "MSc in Data Science",
+    "image": "/images/members/tawhid_shahrior.jpg",
+    "interests": "ML, NLP, Computational History, Social Sciences",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/tawhidshahrior/"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Camila Castel-Branco",
+    "role": "MSc in Data Science with AI",
+    "image": "/images/members/camila_castel-branco.jpg",
+    "interests": "Machine Learning, NLP, Smart Cities Development and Technologies"
+  },
+  {
+    "group": "Alumni",
+    "name": "Mohammad Ali Rahimi Fard Kashani",
+    "role": "MSc in Advanced Computer Science with Business",
+    "image": "/images/members/mohammad_ali_rahimi_fard_kashani.jpg",
+    "interests": "Machine Learning, AI, NLP, interdisciplinary studies in Mechanical Engineering and Computer Science"
+  },
+  {
+    "group": "Alumni",
+    "name": "Shubham Joshi",
+    "role": "MSc in Data Science with AI",
+    "image": "/images/members/square.png"
+  },
+  {
+    "group": "Alumni",
+    "name": "Izzy Sebire",
+    "role": "BSc Computer Science and Mathematics",
+    "image": "/images/members/izzy_sebire.jpeg",
+    "interests": "NLP, Machine Learning, AI Ethics",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/isabel-sebire-81b644175/"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Henry Cook",
+    "role": "BSc in Computer Science",
+    "image": "/images/members/henry_cook.png",
+    "interests": "Machine Learning, NLP, Computer Graphics",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/henry-cook-80263a1b1/"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Jamie Falla",
+    "role": "BSc in Computer Science",
+    "image": "/images/members/jamie_falla.jpeg",
+    "interests": "ML, Network Analysis, Nature-Inspired Computation"
+  },
+  {
+    "group": "Alumni",
+    "name": "Matt Hudson",
+    "role": "BSc in Computer Science",
+    "image": "/images/members/matt_hudson.png",
+    "interests": "Machine Learning, AI, Natural Language Processing"
+  },
+  {
+    "group": "Alumni",
+    "name": "Ruth Matthews",
+    "role": "BSc in Computer Science and Mathematics",
+    "image": "/images/members/ruth_matthews.png",
+    "interests": "Neural Networks, Deep Learning",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/ruth-matthews-106b17211/"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Iain Wainwright",
+    "role": "BSc in Computer Science and Mathematics",
+    "image": "/images/members/square.png"
+  },
+  {
+    "group": "Alumni",
+    "name": "Ben Dennes",
+    "role": "MSc in Data Science",
+    "image": "/images/members/ben_dennes.jpg",
+    "interests": "ML, NLP, AI regulation, political communication, sustainability, ethics",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/bendennes/"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Jaison John",
+    "role": "MSc in Data Science with AI",
+    "image": "/images/members/jaison_john.jpg",
+    "interests": "Machine Learning, Natural Language Processing, Deep Learning",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/jaison-john-51560240/"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Jagjot Singh",
+    "role": "MSc in Data Science with Business",
+    "image": "/images/members/jagjot_singh.jpg",
+    "interests": "Machine Learning, Natural Language Processing",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/jagjot-singh-873a11190/"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Wu Yudong",
+    "role": "MSc in Advanced Computer Science",
+    "image": "/images/members/wu_yudong.jpg",
+    "interests": "Machine Learning, Natural Language Processing, Deep Learning",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/%E5%AE%87%E4%B8%9C-%E5%90%B4-318b85195/"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Dharmender Tathgur",
+    "role": "MSc Apprenticeship in Data Science (Professional)",
+    "image": "/images/members/dharmender_tathgur.png",
+    "interests": "Graph Theory, NLP, Transport Networks, upskilling public sector and communication",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/dtathgur/"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Jiayi Xu",
+    "role": "MSc in Applied Data Science and Statistics",
+    "image": "/images/members/jiayi_xu.jpg",
+    "interests": "NLP, narratives and framing"
+  },
+  {
+    "group": "Alumni",
+    "name": "Tom Bush",
+    "role": "MSc Apprenticeship in Data Science (Professional)",
+    "image": "/images/members/tom_bush.jpg",
+    "interests": "NLP, time series analysis, causal inference, recommender systems",
+    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/tombushuk/"}]
+  },
+  {
+    "group": "Alumni",
+    "name": "Kacper Lodzinski",
+    "role": "MComp Computer Science and AI (Sheffield)",
+    "image": "/images/members/kacper_lodzinski.jpg",
+    "interests": "NLP, ML, Sequential Data Analysis and Generation, Deep Learning",
+    "links": [
+      {"type": "linkedin", "url": "https://www.linkedin.com/in/kacper-lodzinski-5892a3152/?originalSubdomain=uk"},
+      {"type": "website", "url": "https://kacperlsky.github.io/"}
+    ]
+  }
+]
