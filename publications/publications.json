@@ -5,9 +5,12 @@
     "type": "peer-reviewed",
     "img": "../images/publications/2025-ubirajara.jpeg",
     "alt": "Drawing of the Ubirajara dinosaur",
-    "links": [],
     "journal": "Accepted at Geoscience Communication",
-    "year": 2025
+    "year": 2025,
+    "links": [
+      {"label": "Journal Article", "url": "https://gc.copernicus.org/articles/8/175/2025/"},
+      {"label": "PDF", "url": "../papers/GeoscienceCommunication_2025.pdf"}
+    ]
   },
   {
     "title": "Boosting Transformers: Recognizing Textual Entailment for Classification of Vaccine News Coverage",
