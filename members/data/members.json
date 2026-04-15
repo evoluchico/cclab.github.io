@@ -8,7 +8,7 @@
     "links": [{"type": "website", "url": "https://camargo.cool/"}]
   },
   {
-    "group": "Current Members",
+    "group": "Alumni",
     "name": "Guilherme Popolin",
     "role": "Postdoctoral Researcher",
     "image": "/images/members/guilherme_popolin.png",
@@ -62,7 +62,7 @@
     ]
   },
   {
-    "group": "Current Members",
+    "group": "Alumni",
     "name": "Thales David Domingues Aparecido",
     "role": "BSc Molecular Sciences (University of São Paulo)",
     "image": "/images/members/thales_aparecido.png",
@@ -70,7 +70,7 @@
     "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/thales-david-9171061a9"}]
   },
   {
-    "group": "Current Members",
+    "group": "Alumni",
     "name": "Max Leach",
     "role": "Research Intern in Social Data Science",
     "image": "/images/members/max_leach.jpg",
@@ -304,22 +304,6 @@
     "image": "/images/members/valeria_casado.jpg",
     "interests": "Machine Learning, Data Science, NLP",
     "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/valeriacasado/"}]
-  },
-  {
-    "group": "Alumni",
-    "name": "Peilin Du",
-    "role": "MSc in Data Science",
-    "image": "/images/members/peilin_du.png",
-    "interests": "Data Science, ML, NLP, Network Science, Computational Social Science",
-    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/peilin-du-87a0bb238"}]
-  },
-  {
-    "group": "Alumni",
-    "name": "Tawhid Shahrior",
-    "role": "MSc in Data Science",
-    "image": "/images/members/tawhid_shahrior.jpg",
-    "interests": "ML, NLP, Computational History, Social Sciences",
-    "links": [{"type": "linkedin", "url": "https://www.linkedin.com/in/tawhidshahrior/"}]
   },
   {
     "group": "Alumni",

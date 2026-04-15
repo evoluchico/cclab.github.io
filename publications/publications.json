@@ -1,5 +1,44 @@
 [
   {
+    "title": "Divided by discipline? A systematic literature review on the quantification of online sexism and misogyny using a semi-automated approach",
+    "authors": ["Aditi Dutta", "Susan Banducci", "Chico Q. Camargo"],
+    "type": "peer-reviewed",
+    "img": "../images/publications/2025-sexism-systematic.png",
+    "alt": "Male and female symbols",
+    "journal": "Scientometrics",
+    "year": 2025,
+    "links": [
+      {"label": "Preprint", "url": "https://arxiv.org/pdf/2409.20204"},
+      {"label": "PDF", "url": "../papers/Scientometrics_2025.pdf"}
+    ]
+  },
+  {
+    "title": "How does GenAI 'see' climate change: Exploring the challenges and opportunities of GenAI for climate visual journalism",
+    "authors": ["Saffron O'Neill", "Veronica White", "Tristan J.B. Cann", "Felix M. Simon", "Alastair Johnstone-Hack", "Simon Puttock", "Sylvia Hayes", "Oliver Blewett", "Chico Q. Camargo", "Travis Coan", "Francisco Gonzalez Espinosa", "Ranadheer Malla", "Sarwat Qureshi", "Ned Westwood"],
+    "type": "peer-reviewed",
+    "img": "../images/publications/2025-DigitalJournalism.png",
+    "alt": "How does GenAI see climate change",
+    "journal": "Digital Journalism",
+    "year": 2025,
+    "links": [
+      {"label": "Journal Article", "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2602870"},
+      {"label": "PDF", "url": "../papers/DigitalJournalism_2025.pdf"}
+    ]
+  },
+  {
+    "title": "Benchmarking Psychological Lexicons and Large Language Models for Emotion Detection in Brazilian Portuguese",
+    "authors": ["Thales David Domingues Aparecido", "Alexis Carrillo", "Chico Q. Camargo", "Massimo Stella"],
+    "type": "peer-reviewed",
+    "img": "../images/publications/2025-AI.png",
+    "alt": "Benchmarking psychological lexicons and LLMs for emotion detection in Brazilian Portuguese",
+    "journal": "AI",
+    "year": 2025,
+    "links": [
+      {"label": "Journal Article", "url": "https://doi.org/10.3390/ai6100249"},
+      {"label": "PDF", "url": "../papers/AI_2025.pdf"}
+    ]
+  },
+  {
     "title": "#UbirajaraBelongstoBR: social media activism against (neo)colonial practices in palaeontology",
     "authors": ["M.A. Rahimi Fard Kashani", "Nussaïbah B. Raja", "Chico Q. Camargo"],
     "type": "peer-reviewed",
@@ -287,48 +326,6 @@
     ]
   },
   {
-    "title": "Science, Public Service and the New Normal: Two Years of Coverage on the COVID-19 Vaccine in Newspapers from the U.S., U.K., Brazil, and China",
-    "authors": ["Luiz Neves", "Luisa Massarani", "Chico Q. Camargo"],
-    "type": "under-review",
-    "img": "../images/publications/2023-covid-coverage.png",
-    "alt": "Pixelated image of a tree",
-    "links": [],
-    "journal": null,
-    "year": null
-  },
-  {
-    "title": "Evaluating the Performance of Large Language Models for Framing Function Identification",
-    "authors": ["Emily Robinson", "Ranadheer Malla", "Chico Q. Camargo"],
-    "type": "under-review",
-    "img": "../images/publications/2024-Framing-Functions.png",
-    "alt": "Magnifying glass looking at text",
-    "links": [],
-    "journal": null,
-    "year": null
-  },
-  {
-    "title": "Distant viewing television: machine learning genres",
-    "authors": ["Carlos Gontijo Rosa Júnior","Isabel Sebire", "Chico Q. Camargo"],
-    "type": "under-review",
-    "img": "../images/publications/2024-tvtropes.png",
-    "alt": "TVTropes logo",
-    "links": [],
-    "journal": null,
-    "year": null
-  },
-  {
-    "title": "The Effect of #MeToo on Rape Myths in the Media: a Global Multi-Lingual Analysis",
-    "authors": ["Hubert Au", "Joana Perrone", "Chico Q. Camargo"],
-    "type": "under-review",
-    "img": "../images/publications/2024-metoo-myths.png",
-    "alt": "Lots of hands up in the air",
-    "links": [
-        {"label": "Preprint", "url": "https://osf.io/z6uvc_v1/"}
-    ],
-    "journal": null,
-    "year": null
-  },
-  {
     "title": "Are We Really Living in an 'Infodemic'? Science Suggests a Different Story",
     "authors": ["Chico Q. Camargo", "Felix M. Simon"],
     "type": "public-writing",
@@ -390,30 +387,6 @@
     ],
     "journal": "Nerdologia",
     "year": 2022
-  },
-  {
-    "title": "Divided by discipline? A systematic literature review on the quantification of online sexism and misogyny using a semi-automated approach",
-    "authors": ["Aditi Dutta", "Susan Banducci", "Chico Q. Camargo"],
-    "type": "under-review",
-    "img": "../images/publications/2025-sexism-systematic.png",
-    "alt": "Male and female symbols",
-    "links": [
-      {"label": "Preprint", "url": "https://arxiv.org/pdf/2409.20204"}
-    ],
-    "journal": null,
-    "year": null
-  },
-  {
-    "title": "How public opinion shapes individual policy preferences: do the conformists constrain the contrarians?",
-    "authors": ["Myrto Pantazi", "Chico Q. Camargo", "Helen Margetts", "Peter John", "Scott Hale"],
-    "type": "under-review",
-    "img": "../images/publications/2025-INDVOL.png",
-    "alt": "A drawing of two people disagreeing with each other",
-    "links": [
-      {"label": "Preprint", "url": "https://osf.io/aq5d2"}
-    ],
-    "journal": null,
-    "year": null
   },
   {
     "title": "Viu Política: Mapping political content on YouTube in the 2022 Brazilian elections",
